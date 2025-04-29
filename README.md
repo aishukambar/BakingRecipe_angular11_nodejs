@@ -1,4 +1,4 @@
-# BakingRecipe_angular11_nodejs
+# BakingRecipe Webpage
 Simple website with recipes that will make it for you to bake at home!<br>
 For the front end we use the Angular version 11 and for backend we use MySQL.<br>
 For references in the front end code, visit: https://getbootstrap.com/
